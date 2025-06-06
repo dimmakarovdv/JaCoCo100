@@ -1,4 +1,4 @@
-package ru.netology.statistic;
+package ru.netology.javaqa.jacoco;
 
 public class StatisticsService {
     public long findMax(long[] incomes) {
